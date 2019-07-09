@@ -1,0 +1,10 @@
+name = "ToneValueAverage"
+uuid = "6cc8e780-a167-11e9-1762-593d286d23cd"
+authors = ["Pashio84 <yuhki_yk613st730@yahoo.co.jp>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+ImageMagick = "6218d12a-5da1-5696-b52f-db25d2ecc6d1"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
